@@ -112,7 +112,7 @@ Uses a pre-trained BART summarization model with maximum and minimum length cons
 ```
 
 ---
-### Sample Input and Output
+
 ## Sample: Analyze Mood
 
 **Input Example:**
