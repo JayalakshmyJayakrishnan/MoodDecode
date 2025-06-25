@@ -185,3 +185,6 @@ If this repository or its components contribute to your research, consider citin
 ## Contact
 
 For contributions, questions, or issues, please open an issue or contact the maintainer.
+
+## Built By
+Created by Jayalakshmy Jayakrishnan, Ayisha Sulaiman, Pavithra Deepu E, and Devika P Sajith to give words to emotions people struggle to say out loud.🤍
