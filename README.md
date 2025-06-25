@@ -30,6 +30,12 @@ This API combines efficient transformer models from Hugging Face to deliver high
 **Description:**  
 Predicts the most likely emotion from the given input text.
 
+**Purpose:** Predict the primary emotion expressed in the input text.
+
+**Logic:**  
+Applies emotion classification using a fine-tuned DistilBERT model and returns the top-ranked label.
+
+
 **Request Body:**
 
 ```json
@@ -52,6 +58,11 @@ Predicts the most likely emotion from the given input text.
 
 **Description:**  
 Determines whether the text contains crisis-related emotional indicators such as sadness, fear, or anger.
+
+**Purpose:** Detect potential crisis signals in the input.
+
+**Logic:**
+Runs emotion classification, then checks if the predicted label is among predefined crisis-associated emotions and if the confidence score is high (> 0.85).
 
 **Request Body:**
 
@@ -76,6 +87,10 @@ Determines whether the text contains crisis-related emotional indicators such as
 **Description:**  
 Generates a summarized version of the provided text input.
 
+**Purpose:** Generate a condensed summary of the input text.
+
+**Logic:**
+Uses a pre-trained BART summarization model with maximum and minimum length constraints to ensure clarity and brevity.
 **Request Body:**
 
 ```json
