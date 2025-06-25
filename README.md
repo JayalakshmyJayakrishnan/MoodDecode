@@ -4,9 +4,11 @@ An NLP-powered FastAPI endpoint that decodes human emotion, flags potential cris
 
 ## Overview
 
-The **MoodDecoding NLP API** is a FastAPI-based application that leverages pre-trained Natural Language Processing (NLP) models to analyze emotional tone, detect psychological crises, and generate coherent textual summaries. It is designed to be integrated into systems where affective understanding and summarization of text data are crucial, such as in mental health tools, conversational agents, research pipelines, and human-computer interaction platforms.
+The MoodDecoding NLP API is a Flask-based application that uses a pre-trained Natural Language Processing (NLP) models to analyze human emotions, identify potential mental health crises, and generate concise summaries of user-provided text. This system is designed for integration into intelligent applications requiring mood interpretation, content condensation, or emotional risk assessment.
 
-This API combines efficient transformer models from Hugging Face to deliver high-performance inference for emotion classification, crisis detection, and abstractive summarization.
+The API is powered by state-of-the-art models from Hugging Face Transformers, specifically chosen for their relevance in emotion classification and summarization tasks.
+
+
 
 ---
 **Deployed & accessible at:**  
