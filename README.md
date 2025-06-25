@@ -112,6 +112,17 @@ Uses a pre-trained BART summarization model with maximum and minimum length cons
 ```
 
 ---
+### Sample Input and Output
+## Sample: Analyze Mood
+
+**Input Example:**
+
+![Analyze Mood Input](https://github.com/JayalakshmyJayakrishnan/MoodDecode/blob/main/Analyze%20mood/analyzemood_input.jpg)
+
+**Output Example:**
+
+![Analyze Mood Output](https://github.com/JayalakshmyJayakrishnan/MoodDecode/blob/main/Analyze%20mood/analyzemood_output.jpg)
+
 
 ## Installation
 
