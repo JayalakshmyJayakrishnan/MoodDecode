@@ -9,6 +9,10 @@ The **MoodDecoding NLP API** is a FastAPI-based application that leverages pre-t
 This API combines efficient transformer models from Hugging Face to deliver high-performance inference for emotion classification, crisis detection, and abstractive summarization.
 
 ---
+**Deployed & accessible at:**  
+🔗 **https://8841-111-92-115-220.ngrok-free.app/docs**
+
+---
 
 ## Features
 
