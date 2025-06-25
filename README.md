@@ -10,7 +10,7 @@ This API combines efficient transformer models from Hugging Face to deliver high
 
 ---
 **Deployed & accessible at:**  
-🔗 **https://8841-111-92-115-220.ngrok-free.app/docs**
+🔗 **https://01a4-111-92-115-220.ngrok-free.app/docs**
 
 ---
 
