@@ -14,6 +14,11 @@ The API is powered by state-of-the-art models from Hugging Face Transformers, sp
 **Deployed & accessible at:**  
 🔗 **https://01a4-111-92-115-220.ngrok-free.app/docs**
 
+**API Endpoints**
+1. POST https://01a4-111-92-115-220.ngrok-free.app/analyze_mood
+2. POST https://01a4-111-92-115-220.ngrok-free.app/detect_crisis
+3. POST https://01a4-111-92-115-220.ngrok-free.app/summarize
+
 ---
 
 ## Features
